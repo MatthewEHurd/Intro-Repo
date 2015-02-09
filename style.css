@@ -1,0 +1,53 @@
+body {
+	background-color: #666666;
+
+}
+
+
+.maintitle {
+	text-align: center;
+	font-family: arial;
+	background-color: #CCCC9A;
+	border-radius: 5px; 
+	padding: 15px;
+	width: 900px;
+	margin-left: auto;
+  	margin-right: auto;
+}
+
+.stage {
+	text-align: center;
+	font-family: arial;
+	background-color: #CCCC9A;
+	border-radius: 5px; 
+	padding: 15px;
+	width: 900px;
+	margin-left: auto;
+  	margin-right: auto;
+}
+
+
+.notes {
+	margin-left: 35px;
+	font-family: arial;
+	font-size: 14px;
+	background-color: #CCCCCC;
+	border-radius: 5px; 
+	padding: 15px;
+	width: 700px;
+	margin-left: auto;
+  	margin-right: auto;
+}
+
+.sectitle {
+	margin-left: 15px;
+	font-family: arial;
+	background-color: #999967;
+	border-radius: 5px; 
+	padding: 15px;
+	width: 900px;
+	margin-left: auto;
+  	margin-right: auto;
+  	
+
+}
